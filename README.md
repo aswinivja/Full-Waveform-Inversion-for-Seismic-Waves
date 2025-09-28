@@ -7,18 +7,10 @@
 
 ---
 
-## 🛠 Technologies
+## Technologies
 - Julia
 - Pluto.jl
 - FFTW, LinearAlgebra, SparseArrays
 - Plots.jl, StatsPlots.jl
 
 ---
-
-## 🚀 Getting Started
-Clone the repository and open the Pluto.jl notebooks:
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-julia
-using Pluto; Pluto.run()
